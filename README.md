@@ -1,4 +1,4 @@
 <h1>Projeto básico de HTML e CSS.</h1>
 A ideia é fazer uma galeria de exposição para os meus desenhos.
-<hr>
+<hm>
 Ainda em desenvolvimento...
